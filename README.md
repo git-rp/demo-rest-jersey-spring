@@ -6,7 +6,7 @@
 * JDK 1.7 (if you want to use Jetty 9 with the jetty-maven-plugin from project)
 * Maven 3.*
 
-## Install and run the project 
+## Install and run the project
 1. download/clone the project 
 2. prepare the database
   * import in MySQL the self-contained file that comes with the project - [demo-rest-jersey-spring / src / main / resources / input_data / DumpRESTdemoDB.sql](https://github.com/Codingpedia/demo-rest-jersey-spring/blob/master/src/main/resources/input_data/DumpRESTdemoDB.sql)
